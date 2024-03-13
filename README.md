@@ -1,6 +1,8 @@
 # php-eloquent-blog
 
-[![github action status](https://github.com/hexlet-components/php-eloquent-blog/workflows/PHP%20CI/badge.svg)](https://github.com/hexlet-components/php-eloquent-blog/actions)
+[![PHP CI](https://github.com/Kolalexx/php-eloquent-blog/actions/workflows/phpci.yml/badge.svg)](https://github.com/Kolalexx/php-eloquent-blog/actions/workflows/phpci.yml)
+
+This is an educational repository with the help of which the main features of the ORM Eloquent Laravel are studied
 
 ## Requirements
 
